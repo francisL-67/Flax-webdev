@@ -1,0 +1,20 @@
+div {
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #9f9f9f;
+}
+
+img {
+  max-width: 80%;
+}
+
+#header {
+  background-color: #bfbfbf;
+}
+#albums {
+  background-color: #bfbfbf;
+}
+#bio {
+  background-color: #bfbfbf;
+}
