@@ -2,3 +2,7 @@ body{
     background-color: lightblue;
     color: #0000ff
 }
+#pagetitle {
+    text-align: center;
+    color: aquamarine;
+}
