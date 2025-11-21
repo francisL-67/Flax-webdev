@@ -1,8 +1,17 @@
 body{
-    background-color: lightblue;
-    color: #0000ff
+    background-color: rgb(77, 210, 255);
+    color: #ff0000
 }
 #pagetitle {
     text-align: center;
-    color: #b00b69;
+    color: #04ff00;
 }
+#p1 {
+    text-align: right;
+    color: #ff00dd;
+}
+#p2 {
+    text-align: right;
+    color: #73bf00;
+}
+
